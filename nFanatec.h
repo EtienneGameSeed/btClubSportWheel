@@ -19,7 +19,7 @@
 #define NO_WHEEL		0
 #define CSW_PROTOCOL	0xA5
 #define CSL_PROTOCOL	0xC0		// Todo : check this
-#define MCL_PROTOCOL	0x4A		// I think this is bullshit, there's only 2 protocols... The McLaren wheel I have uses the CSW protocol
+#define MCL_PROTOCOL	0x4A		// Not sure if it really exists... The McLaren wheel I have uses the CSW protocol
 
 // Wheel types
 #define NO_RIM		0
