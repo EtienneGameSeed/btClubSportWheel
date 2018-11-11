@@ -1,6 +1,6 @@
 # Node Blue Fanatec Module
-This [Node Blue](httpwww.nodeblue.orggui) module can convert any Fanatec CSW Steering Wheel to a standalone USB or Radio version, so you can use it with any other wheel base.
-I recommend to use ElectroSeed [TBB_02 board](https/www.electroseed.fr/shop/product_info.php/products_id=139) for USB or Radio version, as it's plug and play (you'll only need to connect the jst cable to the rim).
+This [Node Blue](http://www.nodeblue.org/gui) module can convert any Fanatec CSW Steering Wheel to a standalone USB or Radio version, so you can use it with any other wheel base.
+I recommend to use ElectroSeed [TBB_02 board](http://www.electroseed.fr/shop/product_info.php/products_id=139) for USB or Radio version, as it's plug and play (you'll only need to connect the jst cable to the rim).
 
 ## Supported Hardware
 This firmware has been developed and tested on a Teensy 3.2 and Teensy LC but should work with any other compatible hardware.  
@@ -10,17 +10,17 @@ The Teensy-LC is a good choice for this project as it has a small size & price.
 
 ### Shopping List
 #### USB version
-[TBB_02 board](https/www.electroseed.fr/shop/product_info.php/products_id=139) 38.10€ inc. VAT (Including Teensy LC)
+[TBB_02 board](http://www.electroseed.fr/shop/product_info.php/products_id=139) 38.10€ inc. VAT (Including Teensy LC)
 
 #### Radio upgrade
-- [TBB_02 board](https/www.electroseed.fr/shop/product_info.php/products_id=139) from 43.70€ inc. VAT (Including Teensy LC)
-- [LeoDongle](https/www.electroseed.fr/shop/product_info.php/products_id=58) 20.10€ inc. VAT
+- [TBB_02 board](http://www.electroseed.fr/shop/product_info.php/products_id=139) from 43.70€ inc. VAT (Including Teensy LC)
+- [LeoDongle](http://www.electroseed.fr/shop/product_info.php/products_id=58) 20.10€ inc. VAT
 
 ##### Powering Radio Module with an Induction Kit
-- [Induction kit](https/www.electroseed.fr/shop/product_info.php/products_id=166) 32.30€ inc. VAT
+- [Induction kit](http://www.electroseed.fr/shop/product_info.php/products_id=166) 32.30€ inc. VAT
 ##### Powering Radio Module with a battery
-- [Adafruit PowerBoost 500 Charger](https/www.adafruit.com/products1944)  ~15$
-- [LiPo Battery (=1000mA)](https/www.adafruit.com/categories138)  ~10$
+- [Adafruit PowerBoost 500 Charger](https://www.adafruit.com/products1944)  ~15$
+- [LiPo Battery (=1000mA)](https://www.adafruit.com/categories138)  ~10$
 
 ### Pinout & schematics
 #### Fanatec Plug
