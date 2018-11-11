@@ -77,4 +77,4 @@ There is a lot of room for improvement, so if you want to contribute, you're wel
 
 ## Donation to Darknao 
 If you like this project and want to support it, or just want to pay Darknao a beer or two ;)  
-a href=httpswww.paypal.comcgi-binwebscrcmd=_s-xclick&hosted_button_id=89TWYN8U3P8QLimg src=httpswww.paypalobjects.comen_USibtnbtn_donate_SM.gif alt=[paypal] a
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=89TWYN8U3P8QL"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="[paypal]" /></a>
