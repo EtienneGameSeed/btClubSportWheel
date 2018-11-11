@@ -17,15 +17,16 @@ The Teensy-LC is a good choice for this project as it has a small size & price.
 #### Radio upgrade
 - [TBB_02 board](httpswww.electroseed.frshopproduct_info.phpproducts_id=139) from 43.70€ inc. VAT (Including Teensy LC)
 - [LeoDongle](httpswww.electroseed.frshopproduct_info.phpproducts_id=58) 20.10€ inc. VAT
-Powering  
+
+##### Powering Radio Module with an Induction Kit
 - [Induction kit](httpswww.electroseed.frshopproduct_info.phpproducts_id=166) 32.30€ inc. VAT
-Or
+##### Powering Radio Module with a battery
 - [Adafruit PowerBoost 500 Charger](httpswww.adafruit.comproducts1944)  ~15$
 - [LiPo Battery (=1000mA)](httpswww.adafruit.comcategories138)  ~10$
 
 ### Pinout & schematics
 #### Fanatec Plug
-![Fanatec Round Plug](httpi.imgur.comyLSG0Jsm.jpg)
+![Fanatec Round Plug](http://www.electroseed.fr/docs/TBB_02/fanatec_plug.jpg)
 
 1. MISO
 2. MOSI
@@ -44,10 +45,10 @@ Or
  These pin are only used on the Universal Hub and don't need to be connected for this conversion
 
 #### Matching pin for Formula  BMW  Porsche ####
-![Porsche plug pinout](httpi.imgur.comWazqNZlm.jpg)
+![Porsche plug pinout](http://www.electroseed.fr/docs/TBB_02/jst_8_pins.jpg)
 
-#### Matching pin for Universal Hub  CSL P1 ####
-![UNI Hub pinout](httpi.imgur.compC5L8Lum.jpg)
+#### Matching pin for Universal Hub  McLaren GT3 ####
+![UNI Hub pinout](http://www.electroseed.fr/docs/TBB_02/jst_13_pins.jpg)
 
 ## Compatible Wheels
 All CSW  are working with this conversion. That includes
