@@ -1,6 +1,4 @@
 # Node Blue Fanatec Module
-ClubSportWheel USBRadio Controller
-
 This [Node Blue](httpwww.nodeblue.orggui) module can convert any Fanatec CSW Steering Wheel to a standalone USB or Radio version, so you can use it with any other wheel base.
 I recommend to use ElectroSeed [TBB_02 board](httpswww.electroseed.frshopproduct_info.phpproducts_id=139) for USB or Radio version, as it's plug and play (you'll only need to connect the jst cable to the rim).
 
