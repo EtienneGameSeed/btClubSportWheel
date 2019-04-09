@@ -19,8 +19,8 @@ The Teensy-LC is a good choice for this project as it has a small size & price.
 ##### Powering Radio Module with an Induction Kit
 - [Induction kit](http://www.electroseed.fr/shop/product_info.php?products_id=166) 32.30€ inc. VAT
 ##### Powering Radio Module with a battery
-- [Adafruit PowerBoost 500 Charger](https://www.adafruit.com/products1944)  ~15$
-- [LiPo Battery (=1000mA)](https://www.adafruit.com/categories138)  ~10$
+- [PowerBoost 500 Charger](https://www.electroseed.fr/shop/product_info.php?products_id=232)  4.80€ inc. VAT
+- [LiPo Battery (=1000mA)](https://www.electroseed.fr/shop/product_info.php?products_id=210)  4.80€ inc. VAT
 
 ### Pinout & schematics
 #### Fanatec Plug
