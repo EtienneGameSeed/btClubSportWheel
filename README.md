@@ -60,7 +60,7 @@ All CSW  are working with this conversion. That includes
 ## Special note for the Universal Hub and Extra buttons ##
 The Universal HUB brings you no more than 38 buttons (46 with the extra). The Windows Control Panel will only show you 32, but don't worry, every modern DirectX games can go up to 128.
 
-If you need to test all of them, I suggest you to use [JoystickTest](httpwww.planetpointy.co.ukjoystick-test-application) as it can see them all, or [Node Blue](httpwww.nodeblue.orggui)
+If you need to test all of them, I suggest you to use [JoystickTest](http://www.planetpointy.co.uk/joystick-test-application) as it can see them all, or [Node Blue](http://www.nodeblue.org/gui)
 
 ## SoftwareDriver Required
 This is detected has a HID device on Windows, so no specific drivers are required.  
@@ -71,7 +71,7 @@ Alternatively, you can use SLIMax Manager Pro, which is free if used with any Fa
 Well... Everything.
 
 ## Contribution
-There is a lot of room for improvement, so if you want to contribute, you're welcome to [fork](httpshelp.github.comarticlesfork-a-repo) this project, and send me a [pull request](httpshelp.github.comarticlesusing-pull-requests).
+There is a lot of room for improvement, so if you want to contribute, you're welcome to [fork](httpshelp.github.comarticlesfork-a-repo) this project, and send me a [pull request](https://help.github.com/articlesusing-pull-requests).
 
 ## Donation to Darknao 
 If you like this project and want to support it, or just want to pay Darknao a beer or two ;)  
