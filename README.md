@@ -71,7 +71,7 @@ Alternatively, you can use SLIMax Manager Pro, which is free if used with any Fa
 Well... Everything.
 
 ## Contribution
-There is a lot of room for improvement, so if you want to contribute, you're welcome to [fork](httpshelp.github.comarticlesfork-a-repo) this project, and send me a [pull request](https://help.github.com/articlesusing-pull-requests).
+There is a lot of room for improvement, so if you want to contribute, you're welcome to [fork](https://help.github.com/articles/fork-a-repo) this project, and send me a [pull request](https://help.github.com/articles/using-pull-requests).
 
 ## Donation to Darknao 
 If you like this project and want to support it, or just want to pay Darknao a beer or two ;)  
